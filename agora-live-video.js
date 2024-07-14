@@ -1,7 +1,7 @@
 // Import the Agora SDK
 import AgoraRTC from 'agora-rtc-sdk-ng'
 
-const appid = import.meta.env.VITE_AGORA_APP_ID
+const appid = 'd443c0e80c9b449681a4ca3f061d1576'
 const cameraVideoPreset = '360p_7'          // 480 x 360p - 15fps @ 320 Kps
 const audioConfigPreset = 'music_standard'  // 48kHz mono @ 40 Kbps
 const screenShareVideoPreset = '1080_3'     // 1920 x 1080 - 30fps @ 3150 Kps
